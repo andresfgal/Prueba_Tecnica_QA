@@ -18,7 +18,7 @@ bash
 pip install requests 
 
 
-1. Navega a la carpeta del proyecto.
+1. Estar en la carpeta del proyecto.
 2. Ejecuta las pruebas con:
    bash
    python -m unittest test_api.py
